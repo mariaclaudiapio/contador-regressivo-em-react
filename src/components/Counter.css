@@ -8,7 +8,7 @@
 
 .counter-number {
     background-color: #B75458;
-    color: #fff;
+    color: rgba(216, 192, 176, 0.8); 
     padding: 1rem;
     border-radius: .7rem;
     font-size: 4rem;
